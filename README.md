@@ -28,4 +28,4 @@ O processo de criação do modelo de recomendação inclui as seguintes etapas:
     - Treinamento do modelo de recomendação
 
 5. **Geração de Recomendações**:
-    - Geração de recomendações de filmes com base nas preferências do usuário.
+    - Geração de recomendações de filmes com base nas avaliações dos usuários.
