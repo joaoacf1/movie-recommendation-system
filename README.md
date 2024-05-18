@@ -7,7 +7,7 @@ Este projeto é um modelo de Machine Learning de recomendação de filmes que ta
 Você já deve ter reparado que, ao avaliar um filme na sua plataforma de streaming favorita, você começa a receber recomendações de títulos semelhantes. Este projeto é um exemplo de um sistema de recomendação que implementa essa funcionalidade.
 
 
-Dataset: [Kaggle](https://www.kaggle.com/code/alyssonbispopereira/recomenda-o-de-filmes-ptbr/data).
+Dataset: https://www.kaggle.com/code/alyssonbispopereira/recomenda-o-de-filmes-ptbr/data
 
 ## Processo
 
